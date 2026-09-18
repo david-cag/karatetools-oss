@@ -1,0 +1,16 @@
+code/generators/src/main/java/dev/inditex/karate/openapi/data/OpenApiSchemaParser.java
+  h_d235b31810da2c 15,78
+code/generators/src/test/java/dev/inditex/karate/openapi/data/OpenApiSchemaParserTest.java
+  h_d235b31810da2c 1-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3f66bb0a91176434b9380ff75ce4f5e6c5f24c30",
+  "prompts": {},
+  "humans": {
+    "h_d235b31810da2c": {
+      "author": "David Castro <davidcag@ext.inditex.com>"
+    }
+  }
+}
